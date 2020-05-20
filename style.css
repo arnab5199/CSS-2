@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: blueviolet;
+    color: turquoise;
+    padding: 30px 0;
+    text-transform: capitalize;
+}
+header a{
+    color: yellowgreen;
+    background-color: brown;
+    padding: 9px 13px;
+    text-decoration: navajowhite;
+    line-height: 60px;
+    border-radius: 5px;
+}
+.program{
+    text-transform: lowercase;
+    text-align: justify;
+    background-color: ghostwhite;
+    padding: 30px;
+}
+.program2{
+    background-color: greenyellow;
+    padding: 25px 30px 25px 30px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
+.space{
+    background-color: grey;
+    padding: 10px 10px;
+    display: block;
+    word-spacing: 15px;
+    letter-spacing: 10px;
+}
+#word {
+	font-weight: bold;
+	margin: 23px 0;
+	padding: 10px 10px;
+	display: block;
+	text-indent: 50px;
+}
+#word2 {
+	white-space: pre;
+	text-shadow: 4px 5px 3px red;
+	color: gray;
+}
+footer{
+    padding: 20px 0;
+    color: grey;
+    background-color: indianred;
+}
+footer p{
+    text-align: center;
+}
